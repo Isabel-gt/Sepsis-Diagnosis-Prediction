@@ -43,7 +43,7 @@ The Grid was used to search the best set of hyperparametes and their correspondi
 
 <p align="justify">After that, the performance metric were evaluated using a confusion matrix.<p/>
 
-<img width="400" alt="0" src="[https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/f16ffe00593cde5a1f6ee9713435d0168c72bf33/Images/2.png](https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/cfe5b2d37685353ebd95cc0b9c7aeb82db6d4cb1/Images/3.png)">
+<img width="400" alt="0" src="Images/3.png">
 
 <p align="justify">The confusion matrix shows that the model is 95% accurate which indicates that the model performs well.
 

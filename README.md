@@ -29,14 +29,14 @@ Summary statistics and plots were designed. The **Vital Signs**, **Laboratory Va
 
 ### XGBoost Implementation
 
-<p align="justify">An XGBoost model was developed without using any data resampling techniques. The dataset was separated using a *X_train, X_test, y_train, y_test* split<p/>
+An XGBoost model was developed without using any data resampling techniques. The dataset was separated using a *X_train, X_test, y_train, y_test* split.
 
 ### XGBoost with Hyperparameter Tuning
 
-<p align="justify">Another XGBoost model was developed but this time **hyperparameted tuning** with **GridSearch Cross Validation** was used.
-The Grid was used to search the best set of hyperparametes and their corresponding score.<p/>
+Another XGBoost model was developed but this time **hyperparameted tuning** with **GridSearch Cross Validation** was used.
+The Grid was used to search the best set of hyperparametes and their corresponding score.
 
-<p align="justify">This model was used to predict sepsis in the *X_test* set.<p/>
+This model was used to predict sepsis in the *X_test* set.
 
 
 ### Model Performance

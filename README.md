@@ -14,7 +14,7 @@ Application of data anlaysis and machine learning to design an end-to end machin
 
 <img width="400" alt="0" src="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/3fe0ce17d722547869e1a301f0e7af6e23521796/Images/1.png">
 
-<p align="justify">Summary statistics and plots were designed. The **Vital Signs**, **Laboratory Values**, and the **Demographics** were grouped and plotted by Sepsis *(0 indicating NO sepsis and 1 indicating patients with sepsis)*. Moreoever, the distribution of **Vital Signs**, **Laboratory Values**, and the **Demographics** was plotted as well.An example of the **Vital Signs** by sepsis is shown below.</p>
+Summary statistics and plots were designed. The **Vital Signs**, **Laboratory Values**, and the **Demographics** were grouped and plotted by Sepsis *(0 indicating NO sepsis and 1 indicating patients with sepsis)*. Moreoever, the distribution of **Vital Signs**, **Laboratory Values**, and the **Demographics** was plotted as well.An example of the **Vital Signs** by sepsis is shown below.
 
 <img width="400" alt="0" src="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/f16ffe00593cde5a1f6ee9713435d0168c72bf33/Images/2.png">
 

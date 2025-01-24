@@ -56,7 +56,7 @@ This model was used to predict sepsis in the *X_test* set.
 
 <p align="justify">The feature importance was obtained and it is shown in the graph below. The first feature corresponds to the most important one and so on.<p/>
 
-<img width="400" alt="0" src="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/ffa6299eefdf70f7a4c671ffe1af8e02625c94a3/Images/5.png">
+<img width="550" alt="0" src="https://github.com/Isabel-gt/Sepsis-Diagnosis-Prediction/blob/ffa6299eefdf70f7a4c671ffe1af8e02625c94a3/Images/5.png">
 
 
 ## Results
